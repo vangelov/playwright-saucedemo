@@ -1,0 +1,8 @@
+export const PRODUCTS_IDS = {
+  BIKE_LIGHT: 0,
+  BOLT_SHIRT: 1,
+  ONE_SIE: 2,
+  TATT_SHIRT: 3,
+  BACKPACK: 4,
+  FLEECE_JACKET: 5,
+};
