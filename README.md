@@ -13,7 +13,7 @@ This example bit more complicated as it makes use of fixtures and different proj
 There are several projects:
 - Login tests for each browser.
 - One project that just runs the authecation.
-- All other tests for each browser depend the the project for authentication.
+- All other tests for each browser depend on the auth project above.
 
 ## How to Run
 
